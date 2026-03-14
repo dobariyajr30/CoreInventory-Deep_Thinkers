@@ -48,8 +48,8 @@ Built for **Deep Thinkers Hackathon** to digitize and streamline all stock-relat
 ## 🔐 Demo Credentials
 | Role | Email | Password |
 |------|-------|----------|
-| Admin | admin@coreinventory.com | password |
-| Manager | manager@coreinventory.com | password |
+| Admin | admin@coreinventory.com | Admin123 |
+| Manager | manager@coreinventory.com | Manager123 |
 | Staff | staff@coreinventory.com | password |
 
 ---

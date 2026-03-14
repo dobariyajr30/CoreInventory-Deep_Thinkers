@@ -78,6 +78,4 @@ Fix Count     → Adjustment → Apply → Difference logged
 ```
 ```
 
-**Step 5** — Scroll down, in commit box write:
-```
-Add README - CoreInventory project documentation
+
